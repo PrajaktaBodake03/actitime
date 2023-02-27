@@ -1,0 +1,8 @@
+driver.findekementBy.id
+driver.findekementBy.name
+driver.findekementBy.class
+driver.findekementBy.tagname
+driver.findekementBy.linktext
+driver.findekementBy.partiallinktext
+driver.findekementBy.css
+driver.findekementBy.xpath
