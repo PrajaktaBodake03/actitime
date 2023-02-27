@@ -1,3 +1,5 @@
+All types of locators
+
 driver.findekementBy.id
 driver.findekementBy.name
 driver.findekementBy.class
