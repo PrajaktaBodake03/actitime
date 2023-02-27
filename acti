@@ -8,3 +8,4 @@ driver.findekementBy.linktext
 driver.findekementBy.partiallinktext
 driver.findekementBy.css
 driver.findekementBy.xpath
+driver.findekementBy.xpath
