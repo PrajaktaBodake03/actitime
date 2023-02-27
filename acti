@@ -9,3 +9,5 @@ driver.findekementBy.partiallinktext
 driver.findekementBy.css
 driver.findekementBy.xpath
 driver.findekementBy.xpath
+driver.manage().window().maximize();
+driver.manage().timeouts().implicitlywait(Duration.OfSeconds(10));
